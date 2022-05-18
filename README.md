@@ -1,6 +1,11 @@
 ## 👋 Hi, I’m Evgeniy Vashtaevich
+<br>
+
 ### 👀 I’m interested in data analysis
+<br>
+
 ### Languages and Tools
+<br>
 
 ![Python](https://img.shields.io/badge/-Python-5d5d5d?style=flat&logo=python&logoColor=yellow)
 ![Pandas](https://img.shields.io/badge/-Pandas-5d5d5d?style=flat&logo=pandas&logoColor=yellow)
@@ -11,4 +16,8 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-5d5d5d?style=flat&logo=tableau&logoColor=yellow)
 ![AB](https://img.shields.io/badge/-A\/B_testing-5d5d5d?style=flat)
 
-### 📫 How to reach me ...
+### 📫 How to reach me
+<br>
+
+[![Gmail](https://img.shields.io/badge/-Gmail-5d5d5d?style=flat&logo=gmail)](mailto:evgeniyvashtaevich@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-5d5d5d?style=flat&logo=telegram)](https://t.me/lJ_Hl)
