@@ -1,8 +1,6 @@
 ## 👋 Hi, I’m Evgeniy Vashtaevich
-<br>
 
 ### 👀 I’m interested in data analysis
-<br>
 
 ### Languages and Tools
 <br>
