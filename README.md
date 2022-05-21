@@ -20,4 +20,4 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-5d5d5d?style=for-the-badge&logo=gmail)](mailto:evgeniyvashtaevich@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-5d5d5d?style=for-the-badge&logo=telegram)](https://t.me/lJ_Hl)
 <br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lJHl&border_color=000000&show_icons=true&icon_color=FFD43B&theme=dark&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lJHl&border_color=000000&show_icons=true&icon_color=FFD43B&theme=dark&count_private=true&hide=issues,contribs)
